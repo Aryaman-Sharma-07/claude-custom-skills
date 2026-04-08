@@ -1,2 +1,2 @@
 # claude-custom-skills
-Custom claude skills that I made and/or personally use
+A collection of custom skills for Anthropic's Claude that I made and/or personally use
